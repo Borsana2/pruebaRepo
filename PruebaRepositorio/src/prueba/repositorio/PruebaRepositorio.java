@@ -4,6 +4,9 @@
  */
 package prueba.repositorio;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  *
  * @author Bsanc
@@ -16,6 +19,12 @@ public class PruebaRepositorio {
     public static void main(String[] args) {
         // TODO code application logic gihere
         System.out.println("Hola mundo");
+        
+        List<Integer> sample = new ArrayList<>();
+        
+        for (int i = 0; i < 10; i++) {
+            sample.add(i);
+        }
     }
     
 }
