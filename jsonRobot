@@ -1,0 +1,21 @@
+[
+  {
+    "XCoordinate": 1,
+    "YCoordinate": 1,
+    "Orientation": "E",
+    "RobotPath": "RFRFRFRF"
+  },
+  {
+    "XCoordinate": 3,
+    "YCoordinate": 2,
+    "Orientation": "N",
+    "RobotPath": "FRRFLLFFRRFLL"
+  },
+  {
+    "XCoordinate": 0,
+    "YCoordinate": 3,
+    "Orientation": "W",
+    "RobotPath": "LLFFFRFLFL"
+  }
+
+]
